@@ -15,5 +15,5 @@ A new Flutter project.
 
 ## screenshots
 
-![](Screenshot/filename%20Screenshot_1.png 100x200)
-![](Screenshot/filename%20Screenshot_2.png 100x200)
+![](Screenshot/filename%20Screenshot_1.png)
+![](Screenshot/filename%20Screenshot_2.png)
