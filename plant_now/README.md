@@ -15,5 +15,5 @@ A new Flutter project.
 
 ## screenshots
 
-![Screenshot_1](https://user-images.githubusercontent.com/36418693/110215762-ac5f6980-7ed5-11eb-8acb-cbce0845128c.png)
-![Screenshot_2](https://user-images.githubusercontent.com/36418693/110215763-ae292d00-7ed5-11eb-82e9-060146a7e72a.png)
+![](Screenshot/Screenshot_1.png 100x200)
+![](Screenshot/Screenshot_2.png 100x200)
