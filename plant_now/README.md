@@ -15,5 +15,5 @@ A new Flutter project.
 
 ## screenshots
 
-![](Screenshot/filename%20Screenshot_1.png)
-![](Screenshot/filename%20Screenshot_2.png)
+<img src="Screenshot/Screenshot_1.png" height="300" >
+<img src="Screenshot/Screenshot_2.png" height="300" >
